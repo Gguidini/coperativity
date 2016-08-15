@@ -1,4 +1,5 @@
-# Cooperativity - A new idea for national organization in both political and economic levels;
+# Cooperativity 
+#A new idea for national organization in both political and economic levels
 
 This idea came from a school project and a conversation during a car trip,
 along with the observation of countless problems in today's world.
@@ -9,7 +10,7 @@ that cherishes and nurtures good values in society;
 that strengthens family bonds as common practice;
 and a lot more.
 
-If you are interested in knowing more about it and want to participate, please read the master branch.
+If you are interested in knowing more about it and want to participate, please read the OFFICIAL branch.
 There will be the oficial and updated version on this idea, called Cooperativity.
 Keep an open mind (and heart) for new possibilities!
 
